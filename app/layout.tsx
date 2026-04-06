@@ -19,6 +19,7 @@ export default function RootLayout({
         <Navbar />
         {children}
         <Footer />
+        <script src="https://www.vibe-vaults.com/widget.js" data-key="f90d9e837803a292c97614699ba1d7b4" async></script>
       </body>
     </html>
   )
