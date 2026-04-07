@@ -13,7 +13,7 @@ const Clientsay = () => {
                     <span className="lg:absolute lg:bottom-40 lg:left-80">
                         <Image src={'/assets/clientsay/user.png'} alt="user-image" width={168} height={168} className="mx-auto pt-10 lg:pb-10" />
                         <div className="lg:inline-block bg-white rounded-2xl p-5 shadow-sm">
-                            <p className="text-base font-normal text-center text-darkgray">The platform's intuitive interface and powerful tools have <br /> completely changed how I manage my finances. Fast, <br /> secure, and transparent every single day.</p>
+                            <p className="text-base font-normal text-center text-darkgray">The platform&apos;s intuitive interface and powerful tools have <br /> completely changed how I manage my finances. Fast, <br /> secure, and transparent every single day.</p>
                             <h3 className="text-2xl font-medium text-center py-2">Sarah Mitchell</h3>
                             <h4 className="text-sm font-normal text-center">Entrepreneur & Investor</h4>
                         </div>
