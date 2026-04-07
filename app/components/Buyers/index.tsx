@@ -11,26 +11,26 @@ const cardData: cardDataType[] = [
     {
         imgSrc: '/assets/buyers/ourbuyers.svg',
         percent: '80k',
-        heading: "Our buyers",
-        subheading: "Follow a hashtag growth total posts, videos and images.",
+        heading: "Active Users",
+        subheading: "Growing community of users trusting our platform daily",
     },
     {
         imgSrc: '/assets/buyers/projectcompleted.svg',
         percent: '90k',
-        heading: "Project completed",
-        subheading: "Follow a hashtag growth total posts, videos and images.",
+        heading: "Transactions Daily",
+        subheading: "Secure and instant payments processed around the world",
     },
     {
         imgSrc: '/assets/buyers/happybuyers.svg',
-        percent: '80%',
-        heading: "Happy buyers",
-        subheading: "Follow a hashtag growth total posts, videos and images.",
+        percent: '98%',
+        heading: "User Satisfaction",
+        subheading: "Industry-leading customer support and experience ratings",
     },
     {
         imgSrc: '/assets/buyers/teammembers.svg',
         percent: '50+',
-        heading: "Team members",
-        subheading: "Follow a hashtag growth total posts, videos and images.",
+        heading: "Countries Supported",
+        subheading: "Global infrastructure with local expertise everywhere",
     }
 
 ]

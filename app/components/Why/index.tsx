@@ -8,15 +8,15 @@ interface whydata {
 const whydata: whydata[] = [
     {
         heading: "Quality",
-        subheading: "Follow a hashtag growth total posts, videos and images.more revitions",
+        subheading: "Bank-grade security with industry-leading encryption and compliance standards across all transactions",
     },
     {
         heading: "Communication",
-        subheading: "Follow a hashtag growth total posts, videos and images.more revitions",
+        subheading: "24/7 multilingual support team dedicated to resolving your financial needs instantly and efficiently",
     },
     {
         heading: "Reliability",
-        subheading: "Follow a hashtag growth total posts, videos and images.more revitions",
+        subheading: "99.9% uptime guarantee with redundant systems ensuring your funds and data are always accessible",
     }
 ]
 
@@ -35,8 +35,8 @@ const Why = () => {
 
                     {/* COLUMN-2 */}
                     <div>
-                        <h3 className="text-4xl lg:text-5xl pt-4 font-semibold sm:leading-tight mt-5 text-center lg:text-start">Why we best?</h3>
-                        <h4 className="text-lg pt-4 font-normal sm:leading-tight text-center text-beach lg:text-start">Dont waste time on search manual tasks. Let Automation do it for you. Simplify workflows, reduce errors, and save time.</h4>
+                        <h3 className="text-4xl lg:text-5xl pt-4 font-semibold sm:leading-tight mt-5 text-center lg:text-start">Why choose us?</h3>
+                        <h4 className="text-lg pt-4 font-normal sm:leading-tight text-center text-beach lg:text-start">We combine cutting-edge technology with financial expertise to deliver a superior banking experience. Transparency, security, and innovation are at the core of everything we do.</h4>
 
                         <div className="mt-10">
                             {whydata.map((items, i) => (

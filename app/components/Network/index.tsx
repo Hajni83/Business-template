@@ -10,25 +10,25 @@ const Aboutdata: datatype[] = [
     {
         imgSrc: "/assets/network/bangladesh.svg",
         country: "Bangladesh",
-        paragraph: 'Event madness gathering innoies, & tech enthusiasts in Speced.',
+        paragraph: 'Serving millions with fast remittances and local payment solutions across South Asia.',
 
     },
     {
         imgSrc: "/assets/network/america.svg",
         country: "United States",
-        paragraph: 'Event madness gathering innoies, & tech enthusiasts in Speced.',
+        paragraph: 'Leading fintech innovation with seamless domestic and international payments infrastructure.',
 
     },
     {
         imgSrc: "/assets/network/australia.svg",
         country: "Australia",
-        paragraph: 'Event madness gathering innoies, & tech enthusiasts in Speced.',
+        paragraph: 'Empowering businesses with advanced trading tools and compliant financial services.',
 
     },
     {
         imgSrc: "/assets/network/china.svg",
         country: "China",
-        paragraph: 'Event madness gathering innoies, & tech enthusiasts in Speced.',
+        paragraph: 'Connecting Asian markets with reliable cross-border payment and settlement solutions.',
 
     },
 ]
@@ -37,7 +37,7 @@ const Network = () => {
     return (
         <div className="bg-babyblue" id="project">
             <div className="mx-auto max-w-2xl py-20 px-4 sm:px-6 lg:max-w-7xl lg:px-8">
-                <h3 className="text-4xl sm:text-6xl font-semibold text-center my-10 lh-81">Our network & world <br /> work details.</h3>
+                <h3 className="text-4xl sm:text-6xl font-semibold text-center my-10 lh-81">Global presence, <br /> local expertise.</h3>
 
                 <Image src={'/assets/network/map.png'} alt={"map-image"} width={1400} height={800} />
 

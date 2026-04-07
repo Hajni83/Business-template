@@ -60,15 +60,15 @@ const footer = () => {
                     <div className='col-span-4 md:col-span-4 lg:col-span-4'>
                         <div className="flex gap-2">
                             <Image src={'/assets/footer/mask.svg'} alt="mask-icon" width={24} height={24} />
-                            <h5 className="text-base font-normal text-offwhite">925 Filbert Street Pennsylvania 18072</h5>
+                            <h5 className="text-base font-normal text-offwhite">123 Financial Plaza, New York, NY 10001</h5>
                         </div>
                         <div className="flex gap-2 mt-10">
                             <Image src={'/assets/footer/telephone.svg'} alt="telephone-icon" width={24} height={24} />
-                            <h5 className="text-base font-normal text-offwhite">+ 45 34 11 44 11</h5>
+                            <h5 className="text-base font-normal text-offwhite">+1 (800) 555-0123</h5>
                         </div>
                         <div className="flex gap-2 mt-10">
                             <Image src={'/assets/footer/email.svg'} alt="email-icon" width={24} height={24} />
-                            <h5 className="text-base font-normal text-offwhite">info@gmail.com</h5>
+                            <h5 className="text-base font-normal text-offwhite">support@fintech.com</h5>
                         </div>
                     </div>
 
